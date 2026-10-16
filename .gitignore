@@ -1,0 +1,32 @@
+# Arquivos com informações pessoais / relatórios em PDF
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Pesos de modelos treinados e datasets
+*.pth
+*.pt
+*.h5
+dataset/
+classes.txt
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
